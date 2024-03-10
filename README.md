@@ -55,11 +55,7 @@ export FIREBASE_MEASUREMENT_ID=YOUR_MEASUREMENT_ID
 ![image](https://github.com/MBSA-INFINITY/MBSA-Forms/assets/85332648/2200ef81-57de-4619-ba33-4bed2cf31780)
 ![image](https://github.com/MBSA-INFINITY/MBSA-Forms/assets/85332648/ad83c91d-e140-4f4b-9b30-81b4903f1011)
 
-## 🤖 Author
 
-Github - [MBSA-INFINITY](https://github.com/MBSA-INFINITY)
-LinkedIn - [MBSAIADITYA](https://www.linkedin.com/in/mbsaiaditya/)
-Portfolio - [MBSA](https://mbsaiaditya.in/)
 
 
 
